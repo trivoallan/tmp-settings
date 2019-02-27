@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="" password="">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="" />
+    </DockerRegistry>
+    <DockerRegistry email="" password="">
+      <option name="address" value="registry.minipic.localhost" />
+      <option name="name" value="MiniPIC Registry" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>
